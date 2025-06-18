@@ -45,3 +45,10 @@ Model trains on historical data
 Prints regression coefficients and intercept
 
 Displays first few predicted & actual values
+
+5. File structure
+stock_predictor.py
+CSV/
+  └── <COMPANY>.csv
+README.md
+
